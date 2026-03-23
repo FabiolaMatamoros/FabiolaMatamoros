@@ -1,6 +1,6 @@
 # Hi, I'm Fabiola Matamoros 👋
 
-**Software Developer · San José, Costa Rica**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Software+Developer;San+José%2C+Costa+Rica" alt="Typing SVG" />
 
 ---
 
