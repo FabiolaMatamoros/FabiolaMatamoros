@@ -6,7 +6,7 @@
 
 ## About me
 
-I have close to 10 years in customer support and operations, most of it at Amazon working with global teams. I'm currently finishing a Software Development degree and growing into more technical roles. I pick things up fast, stay calm under pressure, and genuinely care about doing good work.
+I've spent the past 5 years building software projects, from stream tools to full stack web apps, and I've been at Amazon for 6 years working with global teams. I'm passionate about learning and always looking for the next thing to build. I pick things up fast, stay calm under pressure, and genuinely care about doing good work.
 
 - 🎓 **Technical Degree in Software Development** 
 - 💼 Currently working as a **Books Specialist at Amazon Books**
